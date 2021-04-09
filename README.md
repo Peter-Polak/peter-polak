@@ -4,7 +4,7 @@
   - Other languages: SQL, HTML, CSS/SASS
   - Technologies: .NET, ASP.NET Core, React/React Native, Cordova, Node.js, jQuery
   - Databases: Oracle
-  - Programms: VS Code, Visual Studio, Git, MS Word, MS Excel, MS PowerPoint, Photoshop, Illustartor, Vegas Pro
+  - Programmes: VS Code, Visual Studio, Git, MS Word, MS Excel, MS PowerPoint, Photoshop, Illustartor, Vegas Pro
 
 ## I’m currently learning:
   - Technologies: Unity, WPF
